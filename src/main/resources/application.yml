@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: bfh-qualifier
+  
+logging:
+  level:
+    com.bajaj.health: INFO
+    org.springframework.web.client: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n" 
