@@ -56,14 +56,14 @@ java -jar target/bfh-qualifier-1.0.0.jar
 
 ```
 Starting BFH Qualifier Application...
-Author: Sakshi (GitHub: Sakshi-Git22)
-Email: sakshi1339.be22@chitkarauniversity.edu.in
+Author: Ankita (GitHub: AnkitaMANDAL0)
+Email: ankita1069.be22@chitkarauniversity.edu.in
 
 =================================================
 BFH Qualifier Application
-Created by: Sakshi
-GitHub ID: Sakshi-Git22
-Email: sakshi1339.be22@chitkarauniversity.edu.in
+Created by: Ankita
+GitHub ID: AnkitaMANDAL0
+Email: ankita1069.be22@chitkarauniversity.edu.in
 =================================================
 
 Step 1: Sending POST request to generate webhook...
@@ -72,7 +72,7 @@ Step 3: Generating placeholder SQL query...
 Step 4: Sending final POST request to webhook URL...
 
 =================================================
-Workflow completed by: Sakshi (Sakshi-Git22)
+Workflow completed by: Ankita (AnkitaMANDAL0)
 =================================================
 ```
 
