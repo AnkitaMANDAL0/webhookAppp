@@ -1,8 +1,8 @@
 # BFH Qualifier Spring Boot Application
 
-**Created by:** Sakshi  
-**GitHub ID:** [Sakshi-Git22](https://github.com/Sakshi-Git22)  
-**Email:** sakshi1339.be22@chitkarauniversity.edu.in  
+**Created by:** Ankita 
+**GitHub ID:** [AnkitaMANDAL0]((https://github.com/AnkitaMANDAL0)  
+**Email:**ankita1069.be22@chitkarauniversity.edu.in  
 
 ## Description
 
