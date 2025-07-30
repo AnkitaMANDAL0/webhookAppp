@@ -28,18 +28,18 @@ public class WebhookService {
         try {
             System.out.println("=================================================");
             System.out.println("BFH Qualifier Application");
-            System.out.println("Created by: Sakshi");
-            System.out.println("GitHub ID: Sakshi-Git22");
-            System.out.println("Email: sakshi1339.be22@chitkarauniversity.edu.in");
+            System.out.println("Created by: Ankita");
+            System.out.println("GitHub ID: AnkitaMANDAL0");
+            System.out.println("Email: ankita1069.be22@chitkarauniversity.edu.in");
             System.out.println("=================================================");
             
             System.out.println("Step 1: Sending POST request to generate webhook...");
             String generateWebhookUrl = "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA";
             
             Map<String, String> requestBody = new HashMap<>();
-            requestBody.put("name", "Sakshi");
+            requestBody.put("name", "Ankita");
             requestBody.put("regNo", "REG12347");
-            requestBody.put("email", "sakshi1339.be22@chitkarauniversity.edu.in");
+            requestBody.put("email", "ankita1069.be22@chitkarauniversity.edu.in");
 
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
@@ -78,12 +78,12 @@ public class WebhookService {
             System.out.println("Final Response Body: " + finalResponse.getBody());
 
             System.out.println("\n=================================================");
-            System.out.println("Workflow completed by: Sakshi (Sakshi-Git22)");
+            System.out.println("Workflow completed by: Ankita (AnkitaMANDAL0)");
             System.out.println("=================================================");
 
         } catch (Exception e) {
             System.err.println("Error occurred during workflow: " + e.getMessage());
-            System.err.println("Contact: sakshi1339.be22@chitkarauniversity.edu.in");
+            System.err.println("Contact: ankita1069.be22@chitkarauniversity.edu.in");
             e.printStackTrace();
         }
     }
