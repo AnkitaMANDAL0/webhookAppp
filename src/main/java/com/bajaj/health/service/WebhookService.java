@@ -9,11 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Sakshi (GitHub: Sakshi-Git22)
- * @email sakshi1339.be22@chitkarauniversity.edu.in
- */
-@Service
+
 public class WebhookService {
 
     private final RestTemplate restTemplate;
