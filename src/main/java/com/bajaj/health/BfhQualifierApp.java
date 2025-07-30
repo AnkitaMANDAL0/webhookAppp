@@ -6,10 +6,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * @author Sakshi (GitHub: Sakshi-Git22)
- * @email sakshi1339.be22@chitkarauniversity.edu.in
- */
+
 @SpringBootApplication
 public class BfhQualifierApp implements CommandLineRunner {
 
@@ -18,8 +15,8 @@ public class BfhQualifierApp implements CommandLineRunner {
 
     public static void main(String[] args) {
         System.out.println("Starting BFH Qualifier Application...");
-        System.out.println("Author: Sakshi (GitHub: Sakshi-Git22)");
-        System.out.println("Email: sakshi1339.be22@chitkarauniversity.edu.in");
+        System.out.println("Author: Ankita (GitHub: AnkitaMANDAL0)");
+        System.out.println("Email: ankita1069.be22@chitkarauniversity.edu.in");
         System.out.println();
         
         SpringApplication.run(BfhQualifierApp.class, args);
